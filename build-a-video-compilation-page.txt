@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <title>Video Compilation Page</title>
+</head>
+<body>
+  <main>
+    <h1>Getting Started</h1>
+    <p>
+      Welcome! This page introduces the essentials of Front End Web Development using HTML, CSS, and JavaScript.
+      Below, you'll find explanations and video resources to help you begin your journey into building interactive, user-friendly websites.
+    </p>
+
+    <section>
+      <h2>HTML</h2><p>HTML, or HyperText Markup Language, forms the backbone of web pages by defining their basic structure and layout.It uses a series of elements to display text, images, lists, tables, and other content on a web page.A solid foundation in HTML is a great beginning for any person looking to understand the structure of web pages. Watch this video on HTML to learn more.</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/HD13eq_Pmp8?si=tMQqFm2ispUiqSIX" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+    <section>
+      <h2>CSS</h2><p>Once you have a clear understanding of HTML, you're ready to add some style!CSS allows you to enhance the look and layout of your web pages.</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/wRNinF7YQqQ?si=3CgyhcVeXxYUzqse" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+
+    <section>
+      <h2>JavaScript</h2><p>Understanding JavaScript is the final step in building dynamic and interactive websites.JavaScript adds functionality, responsiveness, and logic to your web pages.</p>
+      <iframe width="560" height="315" src="https://www.youtube.com/embed/EerdGm-ehJQ?si=SifES93EH6UXJEJy" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+    </section>
+  </main>
+</body>
+</html>
